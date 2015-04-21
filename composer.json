@@ -20,6 +20,7 @@
         "kartik-v/yii2-widgets": "@stable",
         "lajax/yii2-translate-manager": "1.*",
         "sammaye/yii2-audittrail": "@stable",
+        "yiisoft/yii2-swiftmailer": "2.*",
         "zhuravljov/yii2-datetime-widgets": "1.*"
     },
     "require-dev": {
