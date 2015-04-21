@@ -15,7 +15,6 @@
         "dmstr/yii2-news-module": "@stable",
         "dmstr/yii2-pages-module": "@stable",
         "dmstr/yii2-rbac-module": "@stable",
-        "dmstr/yii2-yaml-converter-command": "@stable",        
         "schmunk42/retry": "@stable",
         "kartik-v/yii2-widgets": "@stable",
         "lajax/yii2-translate-manager": "1.*",
@@ -24,6 +23,7 @@
         "zhuravljov/yii2-datetime-widgets": "1.*"
     },
     "require-dev": {
+        "dmstr/yii2-yaml-converter-command": "@stable",        
         "schmunk42/yii2-giiant": "dev-master",
         "schmunk42/yii2-packaii": "dev-master",
         "schmunk42/yii2-markdocs-module": "dev-master"
