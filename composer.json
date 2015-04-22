@@ -2,7 +2,7 @@
     "name": "dmstr/yii2-cms-metapackage",
     "description": "Content Management Extensions for Phundament 4 (Yii 2.0 Framework)",
     "require": {
-        "codemix/yii2-localeurls": "1.*",
+        "codemix/yii2-localeurls": "1.0.*",
         "codemix/yii2-streamlog": "@stable",
         "cybercog/yii2-google-analytics": "@stable",
         "dektrium/yii2-user": "0.9.*",
