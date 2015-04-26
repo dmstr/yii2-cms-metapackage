@@ -24,9 +24,9 @@
     },
     "require-dev": {
         "dmstr/yii2-yaml-converter-command": "*",        
-        "schmunk42/yii2-giiant": "dev-master",
-        "schmunk42/yii2-packaii": "dev-master",
-        "schmunk42/yii2-markdocs-module": "dev-master",
+        "schmunk42/yii2-giiant": "*",
+        "schmunk42/yii2-packaii": "*",
+        "schmunk42/yii2-markdocs-module": "*",
         "yiisoft/yii2-apidoc": "2.*",
         "yiisoft/yii2-codeception": "2.*",
         "yiisoft/yii2-coding-standards": "2.*",
