@@ -22,18 +22,6 @@
         "yiisoft/yii2-swiftmailer": "2.*",
         "zhuravljov/yii2-datetime-widgets": "1.*"
     },
-    "require-dev": {
-        "dmstr/yii2-yaml-converter-command": "*",        
-        "schmunk42/yii2-giiant": "*",
-        "schmunk42/yii2-packaii": "*",
-        "schmunk42/yii2-markdocs-module": "*",
-        "yiisoft/yii2-apidoc": "2.*",
-        "yiisoft/yii2-codeception": "2.*",
-        "yiisoft/yii2-coding-standards": "2.*",
-        "yiisoft/yii2-debug": "2.*",
-        "yiisoft/yii2-faker": "2.*",
-        "yiisoft/yii2-gii": "2.*"
-    },
     "license": "BSD-3-Clause",
     "authors": [
         {
