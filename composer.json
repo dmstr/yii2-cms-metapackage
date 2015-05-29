@@ -16,11 +16,9 @@
         "dmstr/yii2-pages-module": "*",
         "dmstr/yii2-rbac-module": "*",
         "schmunk42/retry": "*",
-        "kartik-v/yii2-widgets": "*",
         "lajax/yii2-translate-manager": "1.*",
         "sammaye/yii2-audittrail": "*",
-        "yiisoft/yii2-swiftmailer": "2.*",
-        "zhuravljov/yii2-datetime-widgets": "1.*"
+        "yiisoft/yii2-swiftmailer": "2.*"
     },
     "license": "BSD-3-Clause",
     "authors": [
