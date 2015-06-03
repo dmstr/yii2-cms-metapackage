@@ -8,6 +8,7 @@
         "dektrium/yii2-user": "0.9.*",
         "dmstr/yii2-adminlte-asset": "*",
         "dmstr/yii2-app-command": "*",
+        "dmstr/yii2-application-metadata": "*",
         "dmstr/yii2-bootstrap": "*",
         "dmstr/yii2-db": "*",
         "dmstr/yii2-log": "*",
