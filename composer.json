@@ -6,6 +6,7 @@
         "codemix/yii2-streamlog": "*",
         "cybercog/yii2-google-analytics": "*",
         "dektrium/yii2-user": "0.9.*",
+        "dmstr/yii2-rbac-module": "*",
         "dmstr/yii2-adminlte-asset": "*",
         "dmstr/yii2-app-command": "*",
         "dmstr/yii2-application-metadata": "*",
@@ -15,11 +16,13 @@
         "dmstr/yii2-migrate-command": "*",
         "dmstr/yii2-news-module": "*",
         "dmstr/yii2-pages-module": "*",
-        "dmstr/yii2-rbac-module": "*",
         "schmunk42/retry": "*",
         "lajax/yii2-translate-manager": "1.*",
         "sammaye/yii2-audittrail": "*",
         "yiisoft/yii2-swiftmailer": "2.*"
+    },
+    "suggest": {
+        "dektrium/yii2-user": "Use dev-master in root composer.json",
     },
     "license": "BSD-3-Clause",
     "authors": [
