@@ -21,7 +21,7 @@
         "yiisoft/yii2-swiftmailer": "2.*"
     },
     "suggest": {
-        "dektrium/yii2-user": "Use dev-master in root composer.json",
+        "dektrium/yii2-user": "Use dev-master in root composer.json"
     },
     "license": "BSD-3-Clause",
     "authors": [
