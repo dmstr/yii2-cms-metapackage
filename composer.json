@@ -6,7 +6,7 @@
         "codemix/yii2-streamlog": "*",
         "cybercog/yii2-google-analytics": "~0.2",
         "dektrium/yii2-user": "0.9.*",
-        "dektrium/yii2-rbac": "~0.1",
+        "dektrium/yii2-rbac": "*",
         "dmstr/yii2-adminlte-asset": "2.*",
         "dmstr/yii2-app-command": "^0.3.2",
         "dmstr/yii2-application-metadata": "*",
