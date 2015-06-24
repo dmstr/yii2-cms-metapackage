@@ -2,23 +2,13 @@
     "name": "dmstr/yii2-cms-metapackage",
     "description": "Content Management Extensions for Phundament 4 (Yii 2.0 Framework)",
     "require": {
-        "codemix/yii2-localeurls": "1.*",
-        "codemix/yii2-streamlog": "*",
         "cybercog/yii2-google-analytics": "~0.2",
         "dektrium/yii2-user": "0.9.*",
         "dektrium/yii2-rbac": "*",
         "dmstr/yii2-adminlte-asset": "2.*",
-        "dmstr/yii2-app-command": "~0.3",
-        "dmstr/yii2-application-metadata": "*",
-        "dmstr/yii2-bootstrap": "*",
-        "dmstr/yii2-db": "*",
-        "dmstr/yii2-migrate-command": "*",
-        "dmstr/yii2-news-module": "*",
+        "dmstr/yii2-libs-metapackage": "*",
         "dmstr/yii2-pages-module": "*",
-        "schmunk42/retry": "*",
-        "lajax/yii2-translate-manager": "1.4.*",
-        "sammaye/yii2-audittrail": "0.3.*",
-        "yiisoft/yii2-swiftmailer": "2.*"
+        "lajax/yii2-translate-manager": "1.4.*"
     },
     "license": "BSD-3-Clause",
     "authors": [
