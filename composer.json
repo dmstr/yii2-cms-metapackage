@@ -9,7 +9,8 @@
         "dmstr/yii2-libs-metapackage": "*",
         "dmstr/yii2-pages-module": "*",
         "insolita/yii2-adminlte-widgets": "~1.1",
-        "lajax/yii2-translate-manager": "1.4.*"
+        "lajax/yii2-translate-manager": "1.4.*",
+        "pheme/yii2-settings": "~0.2"
     },
     "license": "BSD-3-Clause",
     "authors": [
