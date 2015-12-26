@@ -10,7 +10,8 @@
         "dmstr/yii2-pages-module": "~0.10",
         "insolita/yii2-adminlte-widgets": "~1.1",
         "lajax/yii2-translate-manager": "^1.5.1",
-        "pheme/yii2-settings": "~0.2"
+        "pheme/yii2-settings": "~0.2",
+        "trntv/yii2-aceeditor": "~2.0"
     },
     "license": "BSD-3-Clause",
     "authors": [
