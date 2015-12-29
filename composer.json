@@ -2,7 +2,6 @@
     "name": "dmstr/yii2-cms-metapackage",
     "description": "Content Management Extensions for Phundament 4 (Yii 2.0 Framework)",
     "require": {
-        "cybercog/yii2-google-analytics": "~0.2",
         "dektrium/yii2-user": "^0.9.5",
         "dektrium/yii2-rbac": "~0.2",
         "dmstr/yii2-adminlte-asset": "^2.2.4",
