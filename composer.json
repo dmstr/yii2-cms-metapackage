@@ -7,6 +7,7 @@
         "dmstr/yii2-adminlte-asset": "^2.2.4",
         "dmstr/yii2-libs-metapackage": "~0.1",
         "dmstr/yii2-pages-module": "^0.11.3 || ~0.12",
+        "dmstr/yii2-prototype-module": "~0.0",
         "insolita/yii2-adminlte-widgets": "~1.1",
         "lajax/yii2-translate-manager": "^1.5.1",
         "pheme/yii2-settings": "~0.2",
