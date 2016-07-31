@@ -1,17 +1,16 @@
 {
     "name": "dmstr/yii2-cms-metapackage",
-    "description": "Content Management Extensions for Phundament 4 (Yii 2.0 Framework)",
+    "description": "Content-management extensions for Yii 2.0 Framework",
     "require": {
         "dektrium/yii2-user": "^0.9.6",
         "dektrium/yii2-rbac": "~0.2",
         "dmstr/yii2-adminlte-asset": "^2.2.4",
-        "dmstr/yii2-backend-module": "^0.4.2 || ~0.5",
-        "dmstr/yii2-libs-metapackage": "~0.3",
-        "dmstr/yii2-pages-module": "~0.16",
-        "dmstr/yii2-prototype-module": "^0.2.3 || ~0.3",
+        "dmstr/yii2-backend-module": "^0.4.11",
+        "dmstr/yii2-pages-module": "^0.18.0-beta4",
+        "dmstr/yii2-prototype-module": "^0.4.0-beta1",
         "insolita/yii2-adminlte-widgets": "~1.1",
-        "lajax/yii2-translate-manager": "^1.5.1",
-        "pheme/yii2-settings": "~0.2",
+        "lajax/yii2-translate-manager": "^1.5.4",
+        "pheme/yii2-settings": "^0.4",
         "trntv/yii2-aceeditor": "~2.0"
     },
     "license": "BSD-3-Clause",
@@ -20,5 +19,15 @@
             "name": "Tobias Munk",
             "email": "tobias@diemeisterei.de"
         }
-    ]
+    ],
+    "extra": {
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        },
+        "asset-vcs-driver-options": {
+            "github-no-api": true
+        },
+        "asset-pattern-skip-version": "(-build|-patch)"
+    }
 }
