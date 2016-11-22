@@ -10,11 +10,12 @@
         "dmstr/yii2-pages-module": "~0.16",
         "dmstr/yii2-prototype-module": "^0.2.3 || ~0.3",
         "insolita/yii2-adminlte-widgets": "~1.1",
-        "lajax/yii2-translate-manager": "^1.5.1",
+        "lajax/yii2-translate-manager": "^1.5.4",
         "pheme/yii2-settings": "~0.2",
-        "trntv/yii2-aceeditor": "~2.0"
+        "trntv/yii2-aceeditor": "^2.0.2"
     },
     "conflict": {
+        "trntv/yii2-aceeditor": "2.0.1",
         "yiisoft/yii2-twig": "2.0.5"
     },
     "license": "BSD-3-Clause",
