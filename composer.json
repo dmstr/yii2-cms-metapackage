@@ -1,13 +1,14 @@
 {
     "name": "dmstr/yii2-cms-metapackage",
     "description": "Content-management extensions for Yii 2.0 Framework",
+    "minimum-stability": "beta",
     "require": {
         "dektrium/yii2-user": "~0.9.9",
         "dektrium/yii2-rbac": "^0.3",
         "dmstr/yii2-adminlte-asset": "^2.3.3",
-        "dmstr/yii2-backend-module": "~0.4.11",
-        "dmstr/yii2-pages-module": "^0.19.0",
-        "dmstr/yii2-prototype-module": "~0.4.2",
+        "dmstr/yii2-backend-module": "~0.5.0",
+        "dmstr/yii2-pages-module": "^0.20.0",
+        "dmstr/yii2-prototype-module": "~0.5.0",
         "insolita/yii2-adminlte-widgets": "~1.1",
         "lajax/yii2-translate-manager": "^1.5.4",
         "pheme/yii2-settings": "^0.4",
